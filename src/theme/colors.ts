@@ -47,7 +47,8 @@ export const darkColors: Colors = {
   tertiary: "#353547",
   text: "#742fb5",
   textDisabled: "#666171",
-  textSubtle: "#c9c4d4",
+  // textSubtle is the farm and pool multipler color
+  textSubtle: "#3AC610",
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {

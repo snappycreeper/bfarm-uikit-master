@@ -2,9 +2,10 @@ import { Colors } from "./types";
 
 export const baseColors = {
   failure: "#ED4B9E",
-  primary: "#742fb5",
-  primaryBright: "#742fb5",
-  primaryDark: "#742fb5",
+  // primary, primaryBright, and primaryDark are the unlock wallet and stake colors.
+  primary: "#3AC610",
+  primaryBright: "#3AC610",
+  primaryDark: "#3AC610",
   secondary: "#7645D9",
   success: "#31D0AA",
   warning: "#FFB237",

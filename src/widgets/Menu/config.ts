@@ -114,7 +114,7 @@ export const links = [
 ];
 
 export const socials = [
-  {
+  /* {
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
@@ -171,17 +171,17 @@ export const socials = [
         href: "https://t.me/BinanceRocketEGG",
       },
     ],
-  },
+  }, */
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/BabyJewelONE",
   },
-  {
+  /* {
     label: "Reddit",
     icon: "RedditIcon",
     href: "https://www.reddit.com/r/GooseFinanceofficial",
-  },
+  }, */
 ];
 
 export const MENU_HEIGHT = 64;

@@ -2209,7 +2209,7 @@ var links = [
     },
 ];
 var socials = [
-    {
+    /* {
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
@@ -2266,17 +2266,17 @@ var socials = [
                 href: "https://t.me/BinanceRocketEGG",
             },
         ],
-    },
+    }, */
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "https://twitter.com/BabyJewelONE",
     },
-    {
+    /* {
         label: "Reddit",
         icon: "RedditIcon",
         href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
+    }, */
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
